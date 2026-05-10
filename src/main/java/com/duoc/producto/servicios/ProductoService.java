@@ -1,7 +1,7 @@
-package com.duoc.gestion.servicios;
+package com.duoc.producto.servicios;
 
-import com.duoc.gestion.modelos.Producto;
-import com.duoc.gestion.repositorios.ProductoRepository;
+import com.duoc.producto.modelos.Producto;
+import com.duoc.producto.repositorios.ProductoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

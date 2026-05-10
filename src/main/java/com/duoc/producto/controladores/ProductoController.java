@@ -1,8 +1,8 @@
-package com.duoc.gestion.controladores;
+package com.duoc.producto.controladores;
 
 
-import com.duoc.gestion.modelos.Producto;
-import com.duoc.gestion.servicios.ProductoService;
+import com.duoc.producto.modelos.Producto;
+import com.duoc.producto.servicios.ProductoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

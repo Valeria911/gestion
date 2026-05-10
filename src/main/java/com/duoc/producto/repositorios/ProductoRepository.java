@@ -1,6 +1,6 @@
-package com.duoc.gestion.repositorios;
+package com.duoc.producto.repositorios;
 
-import com.duoc.gestion.modelos.Producto;
+import com.duoc.producto.modelos.Producto;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

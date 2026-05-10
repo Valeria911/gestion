@@ -1,4 +1,4 @@
-package com.duoc.gestion.modelos;
+package com.duoc.producto.modelos;
 
 import jakarta.persistence.*;
 
